@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denny-Ashitey
+- 👋 Hi, I’m @Denzel-Ashitey
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on front-end projects
